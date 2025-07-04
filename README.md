@@ -58,7 +58,7 @@ This notebook demonstrates the process of unsupervised clustering on unlabeled s
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Mount your Google Drive.
 2. Update the path to your unlabelled `.wav` files.
